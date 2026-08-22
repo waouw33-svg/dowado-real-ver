@@ -23,6 +23,7 @@ nav button {
     font-size: 2rem;
     margin: 1em;
     font-weight: bold;
+    color: #000;
 }
 
 nav button:active {
@@ -38,6 +39,4 @@ nav button:active {
 
 }
 
-.noti {
 
-}
